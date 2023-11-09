@@ -4,5 +4,6 @@ public class Githubflow {
         System.out.println("githubflow 연습입니다.2");
         System.out.println("githubflow 연습입니다.3");
         System.out.println("githubflow 연습입니다.4");
+        System.out.println("githubflow 연습을 종료합니다.");
     }
 }
